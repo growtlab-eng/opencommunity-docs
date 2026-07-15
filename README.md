@@ -22,6 +22,6 @@ Next.js (App Router, TypeScript) · Tailwind CSS + shadcn/ui · PostgreSQL + Pri
 ## Links
 
 - 🌐 **Live site:** [opencommunity.directory](https://opencommunity.directory)
-- 📇 **More projects:** [Portfolio](https://github.com/growtlab-eng/my-portfolio)
+- 📇 **More projects:** [Portfolio](https://github.com/growtlab-eng/Anuurag-Singh-Portfolio)
 
 > Source code is private. This repository documents the product.
